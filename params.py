@@ -1,7 +1,5 @@
 # Path to the CSV file
 FILE_PATH = "/Users/bruce/Documents/Research/Exported Sv CSV/B082D2_DVM_Focus.sv.csv"
-#FILE_PATH = '/Users/bruce/Documents/Research/Exported Sv CSV/DP09 Migrations/MIGRATION_TEST_DP09_B001D-DP09_B001N.sv.csv' #This Sv CSV seems to not work with our data processing pipeline...
-#FILE_PATH = '/Users/bruce/Documents/Research/Exported Sv CSV/DP09 Migrations/MIGRATION_TEST_DP09_B081D1-DP09_B081N1.sv.csv'
 
 # Visualization parameters
 dmin = -74 # Display minimum value from Echoview
