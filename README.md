@@ -189,10 +189,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
 For questions or support, please contact me directly at brlozano@fiu.edu
