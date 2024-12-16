@@ -79,8 +79,8 @@ The system consists of four main Python files that work together:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/brucelozano/dsl-dvm-detection.git
-   cd dsl-dvm-detection
+   git clone https://github.com/brucelozano/dsl-dvm-detection.git](https://github.com/brucelozano/DVM-Tracking.git
+   cd DVM-Tracking
    ```
 
 2. Install required packages:
